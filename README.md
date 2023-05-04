@@ -1,4 +1,9 @@
 [![MasterHead](https://media2.giphy.com/media/UK5wOtrmXzFHYJjE9A/giphy.gif?cid=ecf05e47b769w0pg8bryszhudworm1dbgbw6gcz0nxrc4nfu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+About me
+I take pride in my diverse skill set that allows me to tackle complex problems and provide data-driven solutions. I am well-versed in data Extraction, cleaning and preprocessing techniques, ensuring the accuracy and reliability of my results. Overall, my skills in data science enable me to leverage data to drive better decision-making and provide impactful solutions to real-world problems.
+
+I also possess strong soft skills that are essential in the data science field. Communication is key, and I am able to effectively communicate complex findings to both technical and non-technical stakeholders. Additionally, I am a collaborative team player and enjoy working with others to solve problems and achieve common goals. These soft skills, combined with my technical abilities, enable me to contribute to impactful data-driven projects and continue to grow in the data science domain
 <h1 align="center">Hi 👋, I'm Abhisek Pattnayak</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
